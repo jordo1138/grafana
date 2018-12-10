@@ -411,7 +411,7 @@ Accept: application/json
 Content-Type: application/json
 
 {
-  "loginOrEmail":"user",
+  "LoginOrEmail":"user",
   "role":"Viewer"
 }
 ```
